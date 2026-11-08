@@ -14,8 +14,6 @@
 
 </div>
 
-<br/>
-
 ## 关于我
 
 高中生。白天上课，晚上写点东西。
@@ -25,9 +23,7 @@
 
 - 🌱 最近在啃：图形渲染、系统级 C++、Android 加固与授权
 - 🛠 日常工具：VS Code · Git · Cloudflare · IDA / jadx · PowerShell
-- 💬 想聊点什么：欢迎开 issue，或者在 [iozz.cc](https://iozz.cc) 找我
-
-<br/>
+- 💬 想聊点什么：欢迎开 issue，或者到 [iozz.cc](https://iozz.cc) 找我
 
 ## 作品
 
@@ -36,15 +32,19 @@
 <td width="50%" valign="top">
 
 **🪑 [SitBreak](https://github.com/wobushilixi/sitbreak)**
-久坐提醒 + 坐姿微训练。C++ / Direct2D 手写界面，925 KB 单文件、无运行时依赖，空闲约 0.3% CPU。
-`C++` `Direct2D` `Win32`
+
+久坐提醒 + 坐姿微训练。Direct2D 手写界面，925 KB 单文件、无运行时依赖，空闲约 0.3% CPU。
+
+<sub><code>C++</code> <code>Direct2D</code> <code>Win32</code></sub>
 
 </td>
 <td width="50%" valign="top">
 
 **🔍 [lixi-reverse](https://github.com/wobushilixi/lixi-reverse)**
+
 Android 授权 / 卡密验证逆向分析技能包：四层判型 + 授权落点 L1–L5 判定，25 个标准库脚本。
-`Python` `逆向` `方法论`
+
+<sub><code>Python</code> <code>逆向</code> <code>方法论</code></sub>
 
 </td>
 </tr>
@@ -52,15 +52,19 @@ Android 授权 / 卡密验证逆向分析技能包：四层判型 + 授权落点
 <td width="50%" valign="top">
 
 **🖼 [Telegraph-Cloud](https://github.com/wobushilixi/Telegraph-Cloud)**
+
 基于 Cloudflare Workers + Pages + Telegram 的无服务器图床，做过一轮性能与易用性改造。
-`JavaScript` `Workers` `Serverless`
+
+<sub><code>JavaScript</code> <code>Workers</code> <code>Serverless</code></sub>
 
 </td>
 <td width="50%" valign="top">
 
 **☁️ [CloudFlare-ImgBed](https://github.com/wobushilixi/CloudFlare-ImgBed)**
+
 Cloudflare Pages + Telegram Bot 的免费图床方案（fork，参与维护与本地化）。
-`JavaScript` `Cloudflare`
+
+<sub><code>JavaScript</code> <code>Cloudflare</code></sub>
 
 </td>
 </tr>
@@ -68,21 +72,23 @@ Cloudflare Pages + Telegram Bot 的免费图床方案（fork，参与维护与�
 <td width="50%" valign="top">
 
 **🌐 [free-proxy-nodes](https://github.com/wobushilixi/free-proxy-nodes)**
+
 每日自动更新的 Clash / SOCKS5 节点，凭据轮换，仅供测试体验。
-`Automation` `Network`
+
+<sub><code>Automation</code> <code>Network</code></sub>
 
 </td>
 <td width="50%" valign="top">
 
 **🌸 [iozz-blog](https://github.com/wobushilixi/iozz-blog)**
+
 自己的小站，Miku 主题，写点技术笔记和生活碎片。
-`Blog` `Frontend`
+
+<sub><code>Blog</code> <code>Frontend</code></sub>
 
 </td>
 </tr>
 </table>
-
-<br/>
 
 ## 数据
 
@@ -95,12 +101,6 @@ Cloudflare Pages + Telegram Bot 的免费图床方案（fork，参与维护与�
 
 </div>
 
-<br/>
-
 <div align="center">
-
-> 慢慢来，比较快。
-
-<sub>iozz · <a href="https://iozz.cc">iozz.cc</a> · 2026</sub>
-
+<sub>慢慢来，比较快。 — iozz · <a href="https://iozz.cc">iozz.cc</a></sub>
 </div>
